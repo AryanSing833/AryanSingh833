@@ -77,16 +77,16 @@
 
 ## 🧩 <b><samp>Check Out My Projects</samp></b>
 
-> Replace these with your repo links anytime — structure is ready.
-
 <span>
-<a href="https://github.com/AryanSingh833/water_management">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSingh833&repo=water_management" />
+
+<a href="https://github.com/AryanSing833/Water_Monitoring_System">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSing833&repo=Water_Monitoring_System" />
 </a>
 
 <a href="https://github.com/AryanSingh833/online_movie_booking">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryanSingh833&repo=online_movie_booking" />
 </a>
+
 </span>
 
 ---
@@ -102,4 +102,3 @@
 <br>
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
-
